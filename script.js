@@ -34,7 +34,6 @@ function DomElement(selector, height, width, bg, fontSize) {
 }
 
 const newElem = new DomElement
-
 const newElem1 = new DomElement
 
 newElem.creator('#best', '30px', '100px', 'border-box red', '16px')
